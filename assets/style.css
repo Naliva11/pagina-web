@@ -9,6 +9,8 @@ body {
     margin: 1rem 1rem;
     background-color: rgba(245, 55, 169, 0.893);
     height: 20rem;
+    flex-grow: 1;
+    flex-basis: calc(33% -6rem);
 }
 footer {
     background-color: rgba(245, 55, 169, 0.893);
